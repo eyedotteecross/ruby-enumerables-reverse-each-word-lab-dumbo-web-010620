@@ -1,4 +1,4 @@
-def reverse_each_word do 
-end 
+def reverse_each_word 
+ 
 end 
   
